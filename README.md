@@ -6,4 +6,4 @@ CSS3
 JAVA script
 Multimedia content
 GIMP-Image editing software
-Those interesting in colllaborating in this technologies you are welcome
+Those interested in colllaborating in this technologies you are welcome
